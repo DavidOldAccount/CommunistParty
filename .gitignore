@@ -1,0 +1,8 @@
+*~
+\#*\#
+.\#*
+
+*.userprefs
+packages/
+bin/
+obj/
